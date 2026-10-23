@@ -1,0 +1,4 @@
+1- resusability
+2- modularity
+3- scoping
+

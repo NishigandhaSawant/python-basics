@@ -1,0 +1,6 @@
+def msg():
+    
+    choice = "i love fish"
+    print(choice)
+
+msg()

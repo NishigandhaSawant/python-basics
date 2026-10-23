@@ -1,0 +1,8 @@
+a class is a blueprint or template for creating objects
+
+map - class
+house - objects
+
+obj are actual instance of a class
+
+self is a keyword

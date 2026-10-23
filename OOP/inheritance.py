@@ -1,0 +1,9 @@
+"""parent class
+    p1 p2
+
+child class
+    p3 p4 p2
+"""
+"""
+code duplication nhi hoga
+"""

@@ -1,0 +1,8 @@
+Python Dictionary
+pair = (apple:meaning)
+
+key-value = pair,comma
+Unordered
+mutable
+dynamic
+key value should be unique
